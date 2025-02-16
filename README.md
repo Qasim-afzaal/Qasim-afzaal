@@ -1,22 +1,29 @@
 <h1 align="center">Hi 👋, I'm Qasim Afzaal</h1>
-<h3 align="center">Expert Mobile App Developer | Flutter | Android | iOS | React Native</h3>
+<h3 align="center">Senior Mobile App Engineer | AI Enthusiast | Flutter | Android | iOS | React Native</h3>
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=800&lines=Building+innovative+solutions+for+WebRTC%2C+Fintech%2C+AI+Apps%2C+Real+Estate%2C+E-Commerce%2C+HealthCare%2C+Social+Apps%2C+AI+Agents%2C+and+SaaS." alt="Typing SVG">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qasim-afzaal&label=Profile%20views&color=0e75b6&style=flat" alt="qasim-afzaal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@mqasimtech" target="blank"><img src="https://img.shields.io/twitter/follow/@mqasimtech?logo=twitter&style=for-the-badge" alt="@mqasimtech" /></a> </p>
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **AI-powered mobile applications**
-- 🌱 I’m currently learning **Native iOS development (Swift & SwiftUI)**
-- 💬 Ask me about **Flutter, Android, React Native, and Mobile UI/UX**
-- 🏆 Achievements:
-  - Developed **10+ mobile applications** published on Play Store and App Store
-  - Worked on **AI-integrated mobile solutions**
-  - Contributed to **open-source projects** related to Flutter and Android
-  - Active problem solver on **LeetCode & Stack Overflow**
-- 📫 Reach me at **qasim.afzaal432@gmail.com**
+- 🏗 Building solutions for **WebRTC, Fintech, AI Apps, Real Estate, E-Commerce, HealthCare, Social Apps, AI Agents, and SaaS**.
+- 🔭 Currently working on **AI-powered mobile applications** to enhance user experience.
+- 🌱 Passionate about **Native iOS (Swift & SwiftUI)** and cutting-edge mobile technologies.
+- 💬 Ask me about **Flutter, Android, React Native, and Mobile UI/UX Optimization**.
+- 📈 Proven track record of **enhancing user engagement and optimizing payment systems**.
+- 🏆 Key Achievements:
+  - Developed **10+ mobile applications** successfully published on Play Store and App Store.
+  - Engineered **AI-integrated mobile solutions** with real-time data processing.
+  - Active open-source contributor in **Flutter & Android communities**.
+  - Problem-solving enthusiast on **LeetCode & Stack Overflow**.
+
+- 📫 Let's connect: **qasim.afzaal432@gmail.com**
 
 ### 🌎 Connect With Me
 <p align="left">
@@ -26,7 +33,7 @@
 <a href="https://www.leetcode.com/qasim-afzaal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="qasim-afzaal" height="30" width="40" /></a>
 </p>
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack & Tools
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>

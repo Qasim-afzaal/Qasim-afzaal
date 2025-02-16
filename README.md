@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=800&lines=Expert+in+Flutter,+Android,+iOS,+React+Native;AI-Powered+Mobile+Applications;Creating+Scalable+and+Efficient+Mobile+Solutions;Passionate+About+Innovation+and+Technology" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=800&lines=Creating+Scalable+and+Efficient+Mobile+Solutions;Passionate+About+Innovation+and+Technology" alt="Typing SVG">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qasim-afzaal&label=Profile%20views&color=0e75b6&style=flat" alt="qasim-afzaal" /> </p>
@@ -18,7 +18,7 @@
 - 💬 Ask me about **Flutter, Android, React Native, and Mobile UI/UX Optimization**.
 - 📈 Proven track record of **enhancing user engagement and optimizing payment systems**.
 - 🏆 Key Achievements:
-  - Developed **10+ mobile applications** successfully published on Play Store and App Store.
+  - Developed **15+ mobile applications**.
   - Engineered **AI-integrated mobile solutions** with real-time data processing.
   - Active open-source contributor in **Flutter & Android communities**.
   - Problem-solving enthusiast on **LeetCode & Stack Overflow**.

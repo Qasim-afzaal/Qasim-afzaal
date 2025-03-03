@@ -13,7 +13,7 @@
 
 ---
 
-### 👨💻 Technical Profile
+### 👨💻 You can connect
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=qasim-afzaal&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile views">
@@ -30,8 +30,6 @@
 
 ---
 
-### 🛠 Technical Arsenal
-
 #### **Core Competencies**
 ```diff
 + Industry Focus: WebRTC | Fintech | Healthcare | SaaS
@@ -46,49 +44,6 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,swift,react,firebase,nodejs,aws,git,redis,postgres,figma&theme=dark&perline=6" alt="Tech Stack">
 </p>
 
----
-
-### 📂 Enterprise-Grade Solutions
-
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin: 2rem 0;">
-
-<div>
-  <h3>Healthcare AI Platform</h3>
-  <a href="[PROJECT_LINK]" target="_blank">
-    <img src="https://drive.google.com/uc?export=view&id=1oL_Eb0flpBqxAQkVZeVbJRMbjrO0zBFm" width="100%" alt="Healthcare AI">
-  </a>
-  <p>HIPAA-compliant telemedicine solution with real-time diagnostics</p>
-  <sub>Flutter | WebRTC | TensorFlow Lite</sub>
-</div>
-
-<div>
-  <h3>Fintech Payment Gateway</h3>
-  <a href="[PROJECT_LINK]" target="_blank">
-    <img src="https://drive.google.com/uc?export=view&id=1i7bGVxr3-SPqKBTKcQ_kfhsKchvbTyOt" width="100%" alt="Fintech Solution">
-  </a>
-  <p>Processed $15M+ transactions with 99.99% uptime</p>
-  <sub>Kotlin | Stripe API | Fraud Detection</sub>
-</div>
-
-<div>
-  <h3>Real Estate SaaS</h3>
-  <a href="[PROJECT_LINK]" target="_blank">
-    <img src="https://drive.google.com/uc?export=view&id=1IgqAhmTNhWOHQuDsUvgsEkdNZryUWvEI" width="100%" alt="Real Estate SaaS">
-  </a>
-  <p>Property management platform serving 50k+ users</p>
-  <sub>React Native | Node.js | AWS</sub>
-</div>
-
-<div>
-  <h3>Social Media Analytics</h3>
-  <a href="[PROJECT_LINK]" target="_blank">
-    <img src="https://drive.google.com/uc?export=view&id=1TFFcuhIfn6f2SG-ni4xzJ5O4yFuuuj1j" width="100%" alt="Social Analytics">
-  </a>
-  <p>AI-powered engagement tracking for 1M+ posts</p>
-  <sub>Flutter | Python | BigQuery</sub>
-</div>
-
-</div>
 
 ---
 

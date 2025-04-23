@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Qasim Afzaal</h1>
-<h3 align="center">Senior Mobile Engineer | Enterprise Solutions Architect</h3>
+<h3 align="center"> Mobile App Expert |  Building AI & SaaS Solutions for Healthcare, E-Commerce, Real Estate & Social Apps | Driving Engagement & Revenuet</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">

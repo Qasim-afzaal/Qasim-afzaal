@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <img src="[https://drive.google.com/uc?export=view&id=10AEeZPRjM-h5fLOldvOUECwg52G-z8kb](https://drive.google.com/drive/u/0/home)" alt="Professional Banner" width="100%">
+  <img src="https://drive.google.com/drive/u/0/home" alt="Professional Banner" width="100%">
 </div>
 
 ---

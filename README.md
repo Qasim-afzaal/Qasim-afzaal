@@ -15,7 +15,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 🄲🄾🄽🄽🄴🄲🅃 🅆🄸🅃🄷 🄼🄴
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=qasim-afzaal&label=Profile+Views&color=FF6B6B&style=flat-square" alt="Profile views" />
@@ -32,7 +32,7 @@
 
 ---
 
-### 🧠💼 Core Competencies
+### 🧠💼 𝐂𝐨𝐫𝐞 𝐂𝐨𝐦𝐩𝐞𝐭𝐞𝐧𝐜𝐢𝐞𝐬
 ```diff
 + Focus: WebRTC | Fintech | Healthcare | SaaS
 + Mobile Dev: Flutter | Android | iOS | React Native
@@ -43,7 +43,7 @@
 
 ---
 
-### ⚙️🛠️ Tech Stack
+### ⚙️🛠️ 🅃🄴🄲🄷 🅂🅃🄰🄲🄺
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,swift,react,firebase,nodejs,aws,git,redis,postgres,figma&theme=dark&perline=6" alt="Tech Stack">
@@ -51,7 +51,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 ɢɪᴛʜᴜʙ ᴛʀᴏᴘʜɪᴇꜱ
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=qasim-afzaal&theme=onedark&no-frame=true&title=Followers,Stars,Commit,Repositories,PullRequest&row=2&column=3" alt="GitHub Trophy" />
@@ -59,7 +59,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 🅶🅸🆃🅷🆄🅱 🅰🅽🅰🅻🆈🆃🅸🅲🆂
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qasim-afzaal&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&bg_color=0f0c29,302b63,24243e&title_color=FACC15&text_color=fff&icon_color=38BDF8"/>
@@ -68,7 +68,7 @@
 
 ---
 
-### 🏁 Milestone Highlights
+### 🏁 𝐌𝐢𝐥𝐞𝐬𝐭𝐨𝐧𝐞 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬
 
 🔥 Reduced transaction failure by **62%** via gateway optimization
 📊 Boosted user retention **+40%** with AI personalization
@@ -77,7 +77,7 @@
 
 ---
 
-### 🚀 Currently Working On
+### 🚀 𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙒𝙤𝙧𝙠𝙞𝙣𝙜 𝙊𝙣
 
 * 🤖 AI customer service bots
 * 📡 WebRTC optimization for poor networks
@@ -86,7 +86,7 @@
 
 ---
 
-### 📬 Want to Talk?
+### 📬 ᴡᴀɴᴛ ᴛᴏ ᴛᴀʟᴋ?
 
 <p align="center">
   <a href="https://calendly.com/qasim-afzaal" target="_blank">

@@ -4,10 +4,6 @@
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding animation" />
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Scalable+Solutions+For%3A;WebRTC+%E2%80%A2+Fintech+%E2%80%A2+AI+Apps+%E2%80%A2+Real+Estate;E-Commerce+%E2%80%A2+Healthcare+%E2%80%A2+Social+Apps+%E2%80%A2+SaaS" alt="Typing SVG" />
   </a>

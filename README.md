@@ -1,6 +1,6 @@
-<h1 align="center">🚀 Qasim Afzaal</h1>
+<h1 align="center">ℚ𝕒𝕤𝕚𝕞 𝔸𝕗𝕫𝕒𝕒𝕝</h1>
 <h3 align="center">
-  Mobile App Expert | AI & SaaS Architect for Healthcare, E-Commerce, Real Estate & Social Platforms
+  𝐌𝐨𝐛𝐢𝐥𝐞 𝐀𝐩𝐩 𝐄𝐱𝐩𝐞𝐫𝐭 | 𝐀𝐈 & 𝐒𝐚𝐚𝐒 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐟𝐨𝐫 𝐇𝐞𝐚𝐥𝐭𝐡𝐜𝐚𝐫𝐞, 𝐄-𝐂𝐨𝐦𝐦𝐞𝐫𝐜𝐞, 𝐑𝐞𝐚𝐥 𝐄𝐬𝐭𝐚𝐭𝐞 & 𝐒𝐨𝐜𝐢𝐚𝐥 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬™
 </h3>
 
 <p align="center">

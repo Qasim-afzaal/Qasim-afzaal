@@ -1,5 +1,11 @@
 <h1 align="center">🚀 Qasim Afzaal</h1>
-<h3 align="center"> Mobile App Expert |  Building AI & SaaS Solutions for Healthcare, E-Commerce, Real Estate & Social Apps | Driving Engagement & Revenuet</h3>
+<h3 align="center">
+  Mobile App Expert | AI & SaaS Architect for Healthcare, E-Commerce, Real Estate & Social Platforms
+</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding animation" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -13,66 +19,79 @@
 
 ---
 
-### 👨💻 You can connect
+### 🌐 Connect with Me
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=qasim-afzaal&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=qasim-afzaal&label=Profile+Views&color=FF6B6B&style=flat-square" alt="Profile views" />
   <a href="https://twitter.com/MQasimTech" target="_blank">
-    <img src="https://img.shields.io/badge/-@MQasimTech-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/qasim-dev" target="_blank">
-    <img src="https://img.shields.io/badge/-Qasim%20Afzaal-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:qasim.afzaal432@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-#### **Core Competencies**
+### 🧠💼 Core Competencies
 ```diff
-+ Industry Focus: WebRTC | Fintech | Healthcare | SaaS
-+ Mobile Development: Flutter | Android | iOS | React Native
-+ AI Integration: ML Kit | TensorFlow Lite | NLP | Computer Vision
-+ Payment Systems: Stripe | PayPal | In-App Purchases | PCI Compliance
-+ Enterprise Solutions: Microservices | CI/CD | Security | Scalability
-```
++ Focus: WebRTC | Fintech | Healthcare | SaaS
++ Mobile Dev: Flutter | Android | iOS | React Native
++ AI Skills: ML Kit | TFLite | NLP | Computer Vision
++ Payments: Stripe | PayPal | IAP | PCI-DSS
++ Systems: Microservices | CI/CD | Security | Scalability
+````
 
-#### **Technical Stack**
+---
+
+### ⚙️🛠️ Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,swift,react,firebase,nodejs,aws,git,redis,postgres,figma&theme=dark&perline=6" alt="Tech Stack">
 </p>
 
-
 ---
 
-### 🏆 Key Achievements
-- **Payment Optimization**: Reduced transaction failures by 62% through gateway optimization
-- **User Engagement**: Increased DAU by 40% via AI-driven personalization
-- **Healthcare Compliance**: Achieved HIPAA/GDPR certification for 3 medical apps
-- **Scale Management**: Architected systems handling 10k+ RPS
-
----
-
-### 📈 GitHub Analytics
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qasim-afzaal&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&bg_color=30,0f0c29,302b63,24243e&title_color=fff&text_color=fff&icon_color=38BDF8"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=qasim-afzaal&theme=vision-friendly-dark&background=30,0f0c29,302b63,24243e&dates=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=qasim-afzaal&theme=onedark&no-frame=true&title=Followers,Stars,Commit,Repositories,PullRequest&row=2&column=3" alt="GitHub Trophy" />
 </p>
 
 ---
 
-### 🎯 Current Focus
-- 🔭 **Active Development**: AI-powered customer service automation
-- 🌱 **Learning**: Advanced WebRTC optimizations for low-bandwidth environments
-- 💡 **Innovating**: Unified payment gateway abstraction layer
-- 📝 **Writing**: "Building HIPAA-Compliant Mobile Apps" guide
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qasim-afzaal&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&bg_color=0f0c29,302b63,24243e&title_color=FACC15&text_color=fff&icon_color=38BDF8"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=qasim-afzaal&theme=vision-friendly-dark&background=0f0c29,302b63,24243e&dates=FACC15&ring=FACC15&fire=FACC15&currStreakLabel=FACC15"/>
+</p>
 
 ---
 
-### 📬 Let's Connect!
+### 🏁 Milestone Highlights
+
+🔥 Reduced transaction failure by **62%** via gateway optimization
+📊 Boosted user retention **+40%** with AI personalization
+🛡️ Delivered **HIPAA/GDPR compliant apps**
+⚙️ Designed systems handling **10k+ RPS**
+
+---
+
+### 🚀 Currently Working On
+
+* 🤖 AI customer service bots
+* 📡 WebRTC optimization for poor networks
+* 💳 Universal payment SDK
+* 📚 *"Building HIPAA-Compliant Mobile Apps"* guide
+
+---
+
+### 📬 Want to Talk?
+
 <p align="center">
   <a href="https://calendly.com/qasim-afzaal" target="_blank">
     <img src="https://img.shields.io/badge/Schedule_Call-38BDF8?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Schedule Call">
@@ -88,8 +107,11 @@
 ---
 
 <div align="center">
-  
-_"Engineering solutions that solve real-world problems at scale"_  
-💡 Pro Tip: Always measure before optimizing!
-
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="100" alt="cool" />
+  <br>
+  <strong>"Engineering solutions that solve real-world problems at scale"</strong><br>
+  💡 <em>Pro Tip: Always measure before optimizing!</em>
 </div>
+```
+
+
